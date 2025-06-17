@@ -22,3 +22,4 @@ A theoretical implementation of arbitrage strategies using Clarity smart contrac
 
 ## Contract Address
 STPQYKSC55NAYG41GVMRDYAX55RABZEYZYT9P80H.flashLoanArbitrageBot
+![Screenshot 2025-06-18 000622](https://github.com/user-attachments/assets/a2ee6d15-b2f4-40fa-aa3d-9a8b903eb406)
